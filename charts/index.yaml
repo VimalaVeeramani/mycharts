@@ -9,6 +9,6 @@ entries:
     name: samplechart
     type: application
     urls:
-    - https://github.com/VimalaVeeramani/mycharts/samplechart-0.1.0.tgz
+    - https://raw.githubusercontent.com/VimalaVeeramani/mycharts/main/samplechart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-09-21T19:00:44.364873+01:00"
